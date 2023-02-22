@@ -1,0 +1,11 @@
+{
+  "name": "mark-dev-r2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.31.0"
+  },
+  "scripts": {
+  }
+}
